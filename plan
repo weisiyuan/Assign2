@@ -1,90 +1,26 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0047)file:///C:/Users/dell/Downloads/plan%20(1).html -->
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>plan</title>
-</head>
-
-<body>
-<h1>CP1406 - Assignment 2 - Project Plan</h1>
-<h1>Diazepam Cafe (Ice-Cream Cafe)</h1>
-<h3>Group member : Bilal , Dou wei , Wei siyuan</h3>
-
-<h3>Mission Statement</h3>
-<p>Attract more people to the an independent icecream and desserts café，enhance the influence cause people to invest.</p>
-<h3>Success Evaluation </h3>
-<p>whether people come to the café and buy the ice cream which is website recommend.</p>
-<h3>Target Audience </h3>
-<p>The target of this website is young people and children, so design this website more lovely and put the logo of ice cream in the Prominent location.Also </p>
-<h3>Content</h3>
-<ul>
-  <li>The homepage displays a large picture of our products, which intends to grab viewer&rsquo;s interest and attention in what the café sells. From here, users can access the rest of the main pages by clicking the navigation bar.</li>
-  <li>The products page will display all the products on offer, a brief description of the product in text, and a small image displaying the product. Clicking the product will link the users to the product page, will describe the product more in depth. The products page will also contain a link to an online order form for customers to make online purchases.</li>
-  <li>The events page will show users of the upcoming events taking place in the café, in list form, sorted by date with the closest event placed first. Include information on children&rsquo;s fashion show as well.</li>
-  <li>The services page will provide information on the café&rsquo;s delivery policies and the party offers that the café serves. From here, customers are linked to the online feedback form in order for them to help the café improve.</li>
-  <li>The about us page will display information about the organization as a whole, and provide links to the café&rsquo;s social media pages. This will also show the relevant contact information of the café.</li>
-</ul>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<h3>Site Flowchart</h3>
-<p><img src="image/flowchart.png" width="1151" height="665" /></p>
-<p>&nbsp;</p>
-<h3>GitHub Repository Link :</h3>
-<h3>github.com/weisiyuan/Assign2/blob/master/plan </h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-</body></html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Diazepam Cafe</title>
+<!-- TemplateEndEditable -->
 <style type="text/css">
 </style>
-<link href="Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<link href="../Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 </head>
 
 <body>
 
 
-<div id="container">
+<div id="container"><!-- TemplateBeginEditable name="header" -->
   <div id="header">
-    <div align="center"><img src="Images/logo_banner.jpg" width="950" height="200" alt="logo" /></div>
+    <div align="center"><img src="../Images/logo_banner.jpg" width="950" height="200" alt="log_banner" /></div>
   </div>
+<!-- TemplateEndEditable -->
   <div id="navbar"><table width="100%" border="0" cellpadding="10">
   <tr>
     <td width="33%"><div class="navheading">
@@ -95,73 +31,17 @@
   </tr>
 </table>
 </div>
-<div id="maincontent">
+  <!-- TemplateBeginEditable name="content" -->
+  <div id="maincontent">
+    <p align="center"><img src="../Images/Once-Upon-a-cream-Ice-Cream-Shop-Thailand-MADA-Design-Factory-1.png" width="716" height="431" alt="shop_pic" /></p>
     <div class="main">
       <div class="navheading">
-        <p align="center">Our Ice Cream</p>
+        <p align="center">Welcome to Diazepam Cafe</p>
       </div>
-      <div align="center">Diazepam Cafe is famous for its premium Ice-Cream. This is due to the wide selection of Ice Cream flavours to choose from, at our cafe.</div>
+      <p align="center">We in DiazePam Café live and breathe ice cream and desserts. We are an independent icecream and desserts café based in Singapore. With the large variety of flavours to choose from that will keep you on the ball thinking on what to get, we assure you a unique experience eating in our cafe. Our goal here in DiazePam cafe is for you to leave the store wishing to come back again.</p>
     </div>
-    <div align="center">
-      <table width="80%" border="0" cellpadding="5">
-        <tr>
-          <td width="50%"><div align="left"><img src="Images/8299777935_5fbfc41978_b.jpg" alt="chocolate" width="300" height="200" align="right" /></div></td>
-          <td width="50%"><div align="center">
-            <div class="tablecontent">
-              <p>Chocolate</p>
-              <p>Sweet and refreshing at the same time. The savoury, delectable chocolate chips that seem to melt on your tongue and drive your taste buds crazy with a side of a minty refreshing flavour that compliments the chocolate chips.</p>
-            </div>
-          </div></td>
-        </tr>
-        <tr>
-          <td><div align="left"><a href="Images/dark chocolate.jpg"><img src="Images/dark chocolate.jpg" alt="darkchoc" width="300" height="200" align="right" /></a></div></td>
-          <td><div align="center">
-            <div class="tablecontent">
-              <p>Dark Chocolate</p>
-              <p>An ice cream for the most hardcore chocolate lover: The person who likes their chocolate dark, bittersweet, and fruity.</p>
-            </div>
-          </div></td>
-        </tr>
-        <tr>
-          <td><div align="left"><img src="Images/vanilla-ice-cream1.jpg" alt="vanilla" width="300" height="200" align="right" /></div></td>
-          <td><div align="center">
-            <div class="tablecontent">
-              <p>Vanilla</p>
-              <p>The beauty of the great everest itself brought towards our eyes with the greatest taste known to human kind.</p>
-            </div>
-          </div></td>
-        </tr>
-        <tr>
-          <td><img src="Images/machiatto.jpg" alt="machiatto" width="300" height="200" align="right" /></td>
-          <td><div align="center">
-            <div class="tablecontent">
-              <p>Machiatto</p>
-              <p>This Caramel Macchiato Ice Cream Recipe results in a dreamy, creamy, mouthwatering experience reminiscent of your favorite coffeehouse indulgence. Easy and so rewarding.</p>
-            </div>
-          </div></td>
-        </tr>
-        <tr>
-          <td><div align="left"><img src="Images/frappucino.JPG" alt="frapp" width="300" height="200" align="right" /></div></td>
-          <td><div align="center">
-            <div class="tablecontent">
-              <p>Frappucino</p>
-              <p>Deep and rich Columbian coffee with smoothe and light flavour.</p>
-            </div>
-          </div></td>
-        </tr>
-        <tr>
-          <td><div align="left"><img src="Images/grape nuts.jpg" alt="grape" width="300" height="200" align="right" /></div></td>
-          <td><div align="center">
-            <div class="tablecontent">
-              <p>Grape Nuts</p>
-              <p>For all you grape lovers, you will have to get this. made with the freshest grapes imported from greece, grape (grab) this icecream</p>
-            </div>
-          </div></td>
-        </tr>
-  </table>
-    </div>
-
   </div>
+  <!-- TemplateEndEditable -->
   <div id="footer">
     <div align="center">All rights reserved. © Diazepam Cafe</div>
   </div>
@@ -170,57 +50,31 @@
   
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!-- saved from url=(0047)file:///C:/Users/dell/Downloads/plan%20(1).html -->
-<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<title>plan</title>
-</head>
-
-<body>
-<h1>CP1406 - Assignment 2 - Project Plan</h1>
-<h1>Diazepam Cafe (Ice-Cream Cafe)</h1>
-<h3>Group member : Bilal,Dou wei, Wei siyuan</h3>
-
-<h3>Mission Statement</h3>
-<p>Attract more people to the an independent icecream and desserts café，enhance the influence cause people to invest.</p>
-<h3>Success Evaluation </h3>
-<p>whether people come to the café and buy the ice cream which is website recommend.</p>
-<h3>Target Audience </h3>
-<p>The target of this website is young people and children, so design this website more lovely and put the logo of ice cream in the Prominent location.Also </p>
-<h3>Content</h3>
-<ul>
-  <li>The homepage displays a large picture of our products, which intends to grab viewer&rsquo;s interest and attention in what the café sells. From here, users can access the rest of the main pages by clicking the navigation bar.</li>
-  <li>The products page will display all the products on offer, a brief description of the product in text, and a small image displaying the product. Clicking the product will link the users to the product page, will describe the product more in depth. The products page will also contain a link to an online order form for customers to make online purchases.</li>
-  <li>The events page will show users of the upcoming events taking place in the café, in list form, sorted by date with the closest event placed first. Include information on children&rsquo;s fashion show as well.</li>
-  <li>The services page will provide information on the café&rsquo;s delivery policies and the party offers that the café serves. From here, customers are linked to the online feedback form in order for them to help the café improve.</li>
-  <li>The about us page will display information about the organization as a whole, and provide links to the café&rsquo;s social media pages. This will also show the relevant contact information of the café.</li>
-</ul>
-<h3>Site Flowchart</h3>
-<p><img src="m1/plan/flowchart.png" width="1151" height="665" /></p>
-<h3>GitHub Repository Link </h3>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-
-</body></html>
-
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
