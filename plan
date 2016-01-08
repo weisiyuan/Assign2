@@ -38,3 +38,137 @@
 
 
 </body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Diazepam Cafe</title>
+<style type="text/css">
+</style>
+<link href="Styles/newstyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+
+<div id="container">
+  <div id="header">
+    <div align="center"><img src="Images/logo_banner.jpg" width="950" height="200" alt="logo" /></div>
+  </div>
+  <div id="navbar"><table width="100%" border="0" cellpadding="10">
+  <tr>
+    <td width="33%"><div class="navheading">
+      <div align="center">Home</div>
+    </div></td>
+    <td width="34%" class="navheading"><div align="center">Our Products</div></td>
+    <td width="33%"><div align="center" class="navheading">About Us</div></td>
+  </tr>
+</table>
+</div>
+<div id="maincontent">
+    <div class="main">
+      <div class="navheading">
+        <p align="center">Our Ice Cream</p>
+      </div>
+      <div align="center">Diazepam Cafe is famous for its premium Ice-Cream. This is due to the wide selection of Ice Cream flavours to choose from, at our cafe.</div>
+    </div>
+    <div align="center">
+      <table width="80%" border="0" cellpadding="5">
+        <tr>
+          <td width="50%"><div align="left"><img src="Images/8299777935_5fbfc41978_b.jpg" alt="chocolate" width="300" height="200" align="right" /></div></td>
+          <td width="50%"><div align="center">
+            <div class="tablecontent">
+              <p>Chocolate</p>
+              <p>Sweet and refreshing at the same time. The savoury, delectable chocolate chips that seem to melt on your tongue and drive your taste buds crazy with a side of a minty refreshing flavour that compliments the chocolate chips.</p>
+            </div>
+          </div></td>
+        </tr>
+        <tr>
+          <td><div align="left"><a href="Images/dark chocolate.jpg"><img src="Images/dark chocolate.jpg" alt="darkchoc" width="300" height="200" align="right" /></a></div></td>
+          <td><div align="center">
+            <div class="tablecontent">
+              <p>Dark Chocolate</p>
+              <p>An ice cream for the most hardcore chocolate lover: The person who likes their chocolate dark, bittersweet, and fruity.</p>
+            </div>
+          </div></td>
+        </tr>
+        <tr>
+          <td><div align="left"><img src="Images/vanilla-ice-cream1.jpg" alt="vanilla" width="300" height="200" align="right" /></div></td>
+          <td><div align="center">
+            <div class="tablecontent">
+              <p>Vanilla</p>
+              <p>The beauty of the great everest itself brought towards our eyes with the greatest taste known to human kind.</p>
+            </div>
+          </div></td>
+        </tr>
+        <tr>
+          <td><img src="Images/machiatto.jpg" alt="machiatto" width="300" height="200" align="right" /></td>
+          <td><div align="center">
+            <div class="tablecontent">
+              <p>Machiatto</p>
+              <p>This Caramel Macchiato Ice Cream Recipe results in a dreamy, creamy, mouthwatering experience reminiscent of your favorite coffeehouse indulgence. Easy and so rewarding.</p>
+            </div>
+          </div></td>
+        </tr>
+        <tr>
+          <td><div align="left"><img src="Images/frappucino.JPG" alt="frapp" width="300" height="200" align="right" /></div></td>
+          <td><div align="center">
+            <div class="tablecontent">
+              <p>Frappucino</p>
+              <p>Deep and rich Columbian coffee with smoothe and light flavour.</p>
+            </div>
+          </div></td>
+        </tr>
+        <tr>
+          <td><div align="left"><img src="Images/grape nuts.jpg" alt="grape" width="300" height="200" align="right" /></div></td>
+          <td><div align="center">
+            <div class="tablecontent">
+              <p>Grape Nuts</p>
+              <p>For all you grape lovers, you will have to get this. made with the freshest grapes imported from greece, grape (grab) this icecream</p>
+            </div>
+          </div></td>
+        </tr>
+  </table>
+    </div>
+
+  </div>
+  <div id="footer">
+    <div align="center">All rights reserved. © Diazepam Cafe</div>
+  </div>
+  
+
+  
+</div>
+
+</body>
+</html>
