@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<link href="Diazepam Ice Cream/Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<link href="../Final/Diazepam Ice Cream/Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<link href="Styles/newstyle.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="subheading">
+  <div id="table">
+    <table width="767" height="596">
+      <tr>
+        <td width="120" height="239"><img src="Images/hipsterlogogenerator_1434522734796.png" width="300" height="300" /></td>
+        <td width="315"><div class="Heading">Feedback Form</div></td>
+        <td width="316"><img src="Images/15228996-A-cartoon-boy-gets-ready-to-eat-a-large-bowl-of-ice-cream--Stock-Photo.jpg" width="300" height="300" /></td>
+      </tr>
+      <tr>
+        <td colspan="3">Name:
+          <label for="textfield"></label>      <input type="text" name="textfield" id="textfield" />    </td>
+      </tr>
+      <tr>
+        <td colspan="3">Contact:
+          <label for="textfield2"></label>      <input type="text" name="textfield2" id="textfield2" />    </td>
+      </tr>
+      <tr>
+        <td colspan="3"><p>How do you rate our service?</p>
+          <form id="form1" name="form1" method="post" action="">
+            <p>
+              <label>
+                <input type="radio" name="RadioGroup1" value="单选" id="RadioGroup1_0" />
+                Satisfaction</label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup1" value="单选" id="RadioGroup1_1" />
+                Common</label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup1" value="单选" id="RadioGroup1_2" />
+                Unsatisfaction</label>
+              <br />
+            </p>
+          </form></td>
+      </tr>
+      <tr>
+        <td height="79" colspan="3"><p>Do you think our product is expensive?</p>
+          <form id="form2" name="form2" method="post" action="">
+            <p>
+              <label>
+                <input type="radio" name="RadioGroup2" value="单选" id="RadioGroup2_0" />
+                Expensive</label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup2" value="单选" id="RadioGroup2_1" />
+                regular</label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup2" value="单选" id="RadioGroup2_2" />
+                Cheap</label>
+              <br />
+            </p>
+          </form></td>
+      </tr>
+      <tr>
+        <td colspan="3"><p>Can you give us some suggestions to improve?</p>
+          <form id="form3" name="form3" method="post" action="">
+            <label for="textarea"></label>
+            <textarea name="textarea" id="textarea" cols="45" rows="5"></textarea>
+          </form>
+        <p>&nbsp;</p></td>
+      </tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>
