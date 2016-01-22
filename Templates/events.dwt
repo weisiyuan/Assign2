@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Diazepam Cafe</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.background {
+	background-color: #FFB6C1;
+}
+}
+</style>
+<link href="../Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+body {
+	background-image: url(../Images/ice_cream_with_banner.png);
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+
+
+<div id="container"><!-- TemplateBeginEditable name="header" -->
+  <div id="header">
+    <div align="center"><img src="../Images/logo_banner.jpg" width="950" height="200" alt="log_banner" /></div>
+  </div>
+<!-- TemplateEndEditable -->
+  <div id="navbar"><table width=950 border="0" cellpadding="10" id="table">
+  <tr>
+    <td width="20%"><div class="navheading">
+      <div align="center"><a href="../index.html" class="navheading">Home</a></div>
+    </div></td>
+    <td width="20%" class="navheading"><div align="center"><a href="../our_products.html" class="navheading">Our Products</a></div></td>
+    <td width="20%" class="navheading"><div align="center"><a href="../services.html" class="navheading">Services</a></div></td>
+    <td width="20%"><div align="center" class="navheading"><a href="../events.html" class="navheading">Events</a></div></td>
+    <td width="20%"><div align="center" class="navheading"><a href="../about_us.html" class="navheading">About Us</a></div></td>
+  </tr>
+</table>
+
+</div>
+  <!-- TemplateBeginEditable name="content" -->
+  <div id="maincontent">
+    <p align="center"><img src="../Images/120638461.jpg" width="575" height="323" /></p>
+    <div class="background">
+      <div class="navheading">
+        <p align="center">Event</p>
+      </div>
+      
+      <p align="justify" class="main">In our Cafe , We will organize a variety of activities. Activities such as Ice cream eating competitions and free tasting. we're sure you will have an enjoyable time. We will also show you how our ice cream is made and let you taste it fresh.</p>
+    </div>
+    </div>
+    <div align="center">
+      <table width="673" border="1">
+    <tr>
+      <td width="196">24th December 2015</td>
+      <td width="461">Christmas and Gala event for sponsors</td>
+    </tr>
+    <tr>
+      <td>6th January 2016</td>
+      <td>Ice-cream making demonstration by Chief Chef  Martin Polo (Free) </td>
+    </tr>
+    <tr>
+      <td>8th January 2016</td>
+      <td>Ice-cream tasting (free)</td>
+    </tr>
+    <tr>
+      <td>10th January 2016</td>
+      <td>Exclusive membership event</td>
+    </tr>
+    <tr>
+      <td>12th January 2016</td>
+      <td>Best Ice-cream cake baking competition</td>
+    </tr>
+    <tr>
+      <td>5th February 2016</td>
+      <td>Ice-cream eating competition for children</td>
+    </tr>
+    <tr>
+      <td>14th February 2016</td>
+      <td>New flavour launch (Assorted Green tea)</td>
+    </tr>
+    <tr>
+      <td>5th March 2016</td>
+      <td>Ice-cream eating competition for adults</td>
+    </tr>
+    <tr>
+      <td>7th April 2016</td>
+      <td>Ice-cream buffet</td>
+    </tr>
+    <tr>
+      <td>25th April 2016</td>
+      <td>Ice-cream decoration competition for children</td>
+    </tr>
+  </table>
+    </div>
+    <p align="left">&nbsp;</p>
+    <p align="center">&nbsp;</p>
+    <div class="background">
+      <div class="navheading">
+        <p align="center" class="background">Café with fashion shows</p>
+      </div>
+
+
+      <p align="justify" class="main">We have pageants for children with winners getting free ice cream for a month. The theme for the pageant will be various flavours of ice cream. Participants will have to take inspiration from the flavours of ice cream we offer.</p>
+    </div>
+    <p align="center"><img src="../Images/Afogto-cafe-ice-cream-parlour-by-Dana-Shaked-Beer-Sheva-Israel-04.jpg" width="720" height="480" /></p>
+  <!-- TemplateEndEditable -->
+  <div id="footer">
+    <div align="center">All rights reserved. © Diazepam Cafe</div>
+  </div>
+  
+
+  
+</div>
+
+</body>
+</html>

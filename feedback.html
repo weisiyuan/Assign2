@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Diazepam Cafe</title>
+<link href="Diazepam Ice Cream/Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<link href="../Final/Diazepam Ice Cream/Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<link href="Styles/newstyle.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+function MM_validateForm() { //v4.0
+  if (document.getElementById){
+    var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+    for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=document.getElementById(args[i]);
+      if (val) { nm=val.name; if ((val=val.value)!="") {
+        if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+          if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+        } else if (test!='R') { num = parseFloat(val);
+          if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+          if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+            min=test.substring(8,p); max=test.substring(p+1);
+            if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+      } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+    } if (errors) alert('The following error(s) occurred:\n'+errors);
+    document.MM_returnValue = (errors == '');
+} }
+</script>
+</head>
+
+<body>
+<div class="subheading">
+  <div id="table">
+    <table width="767" height="596">
+      <tr>
+        <td width="120" height="239"><img src="Images/hipsterlogogenerator_1434522734796.png" width="300" height="300" /></td>
+        <td width="315"><div class="Heading">Feedback Form</div></td>
+        <td width="316"><img src="Images/15228996-A-cartoon-boy-gets-ready-to-eat-a-large-bowl-of-ice-cream--Stock-Photo.jpg" width="300" height="300" /></td>
+      </tr>
+      <tr>
+        <td colspan="3">Name:
+          <label for="textfield"></label>      <input type="text" name="textfield" id="textfield" />    </td>
+      </tr>
+      <tr>
+        <td colspan="3"><form action="" method="post" name="form4" id="form4" onsubmit="MM_validateForm('textfield2','','NisNum','textarea','','RisNum');MM_validateForm('textfield','','NisNum','textfield2','','NisNum');return document.MM_returnValue">
+        
+          Contact Number:
+        <label for="textfield2"></label>      
+        <input type="text" name="textfield2" id="textfield2" /></form>    </td>
+      </tr>
+      <tr>
+        <td colspan="3"><p>How would you rate our service?</p>
+          <form id="form1" name="form1" method="post" action="">
+            <p>
+              <label>
+                <input type="radio" name="RadioGroup1" value="单选" id="RadioGroup1_0" />
+                Excellent
+              </label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup1" value="单选" id="RadioGroup1_1" />
+                Satisfactory
+              </label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup1" value="单选" id="RadioGroup1_2" />
+                Poor
+              </label>
+              <br />
+            </p>
+          </form></td>
+      </tr>
+      <tr>
+        <td height="79" colspan="3"><p>How would you rate our pricing?</p>
+          <form id="form2" name="form2" method="post" action="">
+            <p>
+              <label>
+                <input type="radio" name="RadioGroup2" value="单选" id="RadioGroup2_0" />
+                Expensive</label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup2" value="单选" id="RadioGroup2_1" />
+                Reasonable</label>
+              <br />
+              <label>
+                <input type="radio" name="RadioGroup2" value="单选" id="RadioGroup2_2" />
+                Cheap</label>
+              <br />
+            </p>
+          </form></td>
+      </tr>
+      <tr>
+        <td colspan="3"><p>How can we improve?</p>
+          <form id="form3" name="form3" method="post" action="">
+            <label for="textarea"></label>
+            <textarea name="textarea" id="textarea" cols="45" rows="5"></textarea>
+          </form>
+          <form id="form5" name="form5" method="post" action="">
+            <input type="submit" name="Submit" id="Submit" value="Submit" />
+          </form>
+        <p>&nbsp;</p></td>
+      </tr>
+    </table>
+  </div>
+</div>
+</body>
+</html>
