@@ -13,7 +13,7 @@
   <div id="table">
     <table width="767" height="596">
       <tr>
-        <td width="120" height="239"><img src="Images/hipsterlogogenerator_1434522734796.png" width="300" height="300" /></td>
+        <td width="120" height="239"><p><a href="index.html"><img src="Images/hipsterlogogenerator_1434522734796.png" width="300" height="300" /></td>
         <td width="315"><div class="Heading">Feedback Form</div></td>
         <td width="316"><img src="Images/15228996-A-cartoon-boy-gets-ready-to-eat-a-large-bowl-of-ice-cream--Stock-Photo.jpg" width="300" height="300" /></td>
       </tr>
@@ -68,6 +68,7 @@
           <form id="form3" name="form3" method="post" action="">
             <label for="textarea"></label>
             <textarea name="textarea" id="textarea" cols="45" rows="5"></textarea>
+            <input type="button" name="button" id="button" value="submit" />
           </form>
         <p>&nbsp;</p></td>
       </tr>
